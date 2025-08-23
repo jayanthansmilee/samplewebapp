@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>DevOps world.com</title>
+    <title>DevOps training by jayanthan</title>
 
 
     <!-- Custom styles for this template -->
